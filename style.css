@@ -1,0 +1,47 @@
+body{
+    padding: 0px;
+    margin: 2px;
+}
+header{
+    padding: 2px;
+    text-align: center;
+    background-color: rgb(94, 179, 205);
+}
+.section1{
+    background-color: azure;
+    text-align: center;
+}
+.section1{
+    background-color: rgb(135, 161, 213);
+    color: white;
+}
+header img {
+    height: 200px;
+}
+.about{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 12px;
+}
+.education{
+    font-weight: bold;
+}
+a:hover{
+    background-color: yellow;
+}
+.contact b{
+    margin: 12px;
+}
+.thank{
+    text-align: center;
+    background-color: rgb(181, 181, 181);
+    margin: 0px;
+    color: black;
+}
+.footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 2px;
+}
