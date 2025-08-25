@@ -3,12 +3,15 @@
 This is my first web development project built using basic HTML and CSS.
 
 ## Features
--Responsive layout (basic)
--About Me section
--Projects showcase
--Contact information
--Clean UI with simple styling
+- Responsive layout (basic)
+- About Me section
+- Projects showcase
+- Contact information
+- Clean UI with simple styling
 
 ## Technologies Used
--HTML5
--CSS3
+- HTML5
+- CSS3
+
+## Link
+- https://abhishek-1273.github.io/Week-1-Basic-Portfolio/
